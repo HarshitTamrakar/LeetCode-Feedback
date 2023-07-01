@@ -21,7 +21,8 @@ you click on submit.
 - [ ] Question
 - [ ] Solution
 - [ ] Language
-- [ ] Missing Test Cases 
+- [ ] Missing Test Cases
+- [ ] Other
 
 
 #### Description of the bug
